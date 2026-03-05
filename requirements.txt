@@ -1,0 +1,16 @@
+# Markdown 到 PDF 转换器依赖
+# 安装方法: pip install -r requirements.txt
+
+# PDF 生成
+reportlab>=4.0.0
+
+# Markdown 解析
+markdown>=3.4.0
+
+# HTML 解析
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+
+# 代码语法高亮（可选但推荐）
+pygments>=2.16.0
+

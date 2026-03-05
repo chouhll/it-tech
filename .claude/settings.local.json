@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(source venv/bin/activate)",
+      "Bash(python debug_code.py)",
+      "Bash(git add -A)"
+    ]
+  }
+}
